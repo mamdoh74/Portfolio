@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👋 My name is <h3>Mamdouh Marouf</h3>, a Senior Data & Analytics Engineer from Egypt, specializing in designing end-to-end data ecosystems that empower Operations, Commercial teams, Finance, and Leadership to make faster, smarter, and more confident decisions.</p>
+<p align="left">👋 My name is ###Mamdouh Marouf###, a Senior Data & Analytics Engineer from Egypt, specializing in designing end-to-end data ecosystems that empower Operations, Commercial teams, Finance, and Leadership to make faster, smarter, and more confident decisions.</p>
 
 ###
 
