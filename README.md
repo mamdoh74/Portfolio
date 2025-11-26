@@ -44,16 +44,6 @@
 
 <p align="left">Open to roles in:<br>Data Engineering • Analytics Engineering • BI Development • Data Platforms<br>I’m capable of adapting to any business domain and adding value through data-driven problem solving, scalable pipelines, and impactful analytics.</p>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mamdoh74&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Mamdoh74&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mamdoh74&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -96,10 +86,3 @@
 
 <img align="right" height="150" src="https://media.tenor.com/hFWEUsC7rc0AAAAi/curious-piyuesh-piyueshmodi.gif"  />
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Mamdoh74/Mamdoh74/output/snake.svg" alt="Snake animation" />
-
-###
